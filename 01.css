@@ -1,0 +1,12 @@
+.buy{
+        background-color: #d20000;
+        color: aliceblue;
+        border: none;
+        height: 36px;
+        width: 105;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity .15s;
+        vertical-align: top;
+}
